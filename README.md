@@ -1,2 +1,2 @@
-# collisionalgorithmwithfunctions
-collision algorithm with functions
+# collisionAlgorithm
+Algorithm to detect collision between two objects
